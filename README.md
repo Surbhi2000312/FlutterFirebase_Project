@@ -1,16 +1,9 @@
 # radha_firebase
 
-A new Flutter project for firebase
+A new Flutter project for firebase Login and SignUp Page
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Surbhi2000312/FlutterFirebase_Project/assets/163031205/30135465-9265-4031-8499-b7aecdb6a4b9)
+![Login](https://github.com/Surbhi2000312/FlutterFirebase_Project/assets/163031205/e0510f7e-ab03-4dd3-9d97-c61913e710f5)
+![Login](https://github.com/Surbhi2000312/FlutterFirebase_Project/assets/163031205/78f8e32d-44e9-4273-8f09-e00257cb6086)
