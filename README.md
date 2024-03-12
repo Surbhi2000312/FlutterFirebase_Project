@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for Phone Authentication via OTP
 
-A few resources to get you started if this is your first Flutter project:
+Enter the Number then click on the button
+![image](https://github.com/Surbhi2000312/FlutterFirebase_Project/assets/163031205/87930948-ba6a-470e-bcad-bf9f7c65f235)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Paste OTP
+![image](https://github.com/Surbhi2000312/FlutterFirebase_Project/assets/163031205/bbd32bd7-9f20-437d-952c-74d7e3d28d84)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+get to the Home Page
+![image](https://github.com/Surbhi2000312/FlutterFirebase_Project/assets/163031205/02648322-af8b-42fd-9a81-51d7a0dccff7)
+
+
+
+
+
